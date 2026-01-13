@@ -4,10 +4,10 @@ Computer Science Student passionate about Blockchain, AI, and Linux systems.
 I learn by building real projects and enjoy working close to the system level as well as modern web technologies.  
 Currently focused on strengthening my foundations and preparing for a full-time tech role 🚀
 
-- 🔭 Working on blockchain-based and AI-focused projects  
+- 🔭 Working on  projects i love
 - 🌱 Learning Solidity, Smart Contracts, AI fundamentals, and system internals  
 - 💬 Ask me about **Blockchain, Solidity, Linux, Git, Web Development, Databases**  
-- ⚡ Fun fact: I daily-drive Linux and break things to learn faster 😄  
+- ⚡ I daily-drive Linux and break things to learn faster 😄  
 
 ---
 
