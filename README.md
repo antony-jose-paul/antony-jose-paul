@@ -22,7 +22,7 @@ Currently focused on strengthening my foundations and preparing for a full-time 
 </p>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=antony-jose&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=antony-jose-paul&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -32,12 +32,12 @@ Currently focused on strengthening my foundations and preparing for a full-time 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=antony-jose-paul&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/antony-jose-paul)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antony-jose&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=antony-jose&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antony-jose-paul&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=antony-jose-paul&layout=compact&theme=tokyonight"/>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antony-jose&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antony-jose-paul&theme=tokyonight" />
 </p>
 
 ---
