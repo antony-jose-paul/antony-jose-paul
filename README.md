@@ -1,6 +1,6 @@
 ### Hello 🌍, I'm Antony Jose Paul
 
-Computer Science graduate passionate about Blockchain, AI, and Linux systems.  
+Computer Science Student passionate about Blockchain, AI, and Linux systems.  
 I learn by building real projects and enjoy working close to the system level as well as modern web technologies.  
 Currently focused on strengthening my foundations and preparing for a full-time tech role 🚀
 
@@ -72,11 +72,11 @@ Currently focused on strengthening my foundations and preparing for a full-time 
 
 <tr>
 <td><b>OS:</b></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=ubuntu,debian"/></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=ubuntu"/></td>
 </tr>
 </table>
 
 ---
 
-**Antony Jose**  
-Computer Science Graduate  
+**Antony Jose Paul**  
+Computer Science Student
