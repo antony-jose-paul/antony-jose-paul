@@ -29,7 +29,7 @@ Currently focused on strengthening my foundations and preparing for a full-time 
 
 <h3 align="left">Activity:</h3>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=antony-jose&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/antony-jose)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=antony-jose-paul&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/antony-jose-paul)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antony-jose&show_icons=true&theme=tokyonight"/>
@@ -60,19 +60,16 @@ Currently focused on strengthening my foundations and preparing for a full-time 
 <td><img height="40" src="https://skillicons.dev/icons?i=ethereum,solidity"/></td>
 </tr>
 
-<tr>
-<td><b>Databases:</b></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
-</tr>
+
 
 <tr>
 <td><b>Tools:</b></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=git,github,docker,linux"/></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=git,github,linux"/></td>
 </tr>
 
 <tr>
 <td><b>OS:</b></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=ubuntu"/></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=arch"/></td>
 </tr>
 </table>
 
